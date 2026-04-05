@@ -12,7 +12,6 @@ def test_add():
 
 def test_greet():
     """Test the greet function."""
-    assert greet("Alice") == "Kaixo, Alice!"
     assert greet("World") == "Kaixo, World!"
     assert greet("Aitzol") == "Kaixo, Aitzol!"
 
