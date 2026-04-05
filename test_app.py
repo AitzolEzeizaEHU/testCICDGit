@@ -1,6 +1,5 @@
 """Tests for app.py"""
 
-
 from app import add, greet
 
 
