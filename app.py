@@ -8,13 +8,13 @@ def add(a: int, b: int) -> int:
 
 def greet(name: str) -> str:
     """Return a greeting message."""
-    return f"Hello, {name}!"
+    return f"Kaixo, {name}!"
 
 
 def main() -> None:
     """Main function."""
-    print("Hello, World!")
-    print(greet("Alice"))
+    print("Kaixo, Mundua!")
+    print(greet("Aitzol"))
     print(f"2 + 3 = {add(2, 3)}")
 
 
