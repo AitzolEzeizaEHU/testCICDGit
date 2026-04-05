@@ -14,7 +14,7 @@ def greet(name: str) -> str:
 def main() -> None:
     """Main function."""
     print("Kaixo, Mundua!")
-    print(    greet("Aitzol")   )
+    print(greet("Aitzol"))
     print(f"2 + 3 = {add(2, 3)}")
 
 
